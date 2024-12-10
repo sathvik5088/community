@@ -53,7 +53,7 @@
         .hero {
             background: url('golf-course.jpg') no-repeat center center/cover;
             height: 70vh;
-            color: #fff;
+            color: #080808;
             display: flex;
             flex-direction: column;
             justify-content: center;
